@@ -7,3 +7,5 @@ For example, cd repository-name will navigate you to the cloned repository's dir
 
 Finally, to run the repository on your localhost, you can go to file index.html and click in menu "Open with Live Server". 
 The project will be opened in your browser.
+
+Also you can open deploy version through Github pages by link: https://kristenjs.github.io/clicker_game/
